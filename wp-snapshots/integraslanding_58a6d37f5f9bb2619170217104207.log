@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-02-17 10:42:57
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.1.30
+WORDPRESS:	4.7.2
+PHP INFO:	5.6.28 | SAPI: apache2handler
+SERVER:		Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.28 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 21.5MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:24 | filtered:0 | create:24 
+FILTERED: [] 
+SQL CREATED: integraslanding_58a6d37f5f9bb2619170217104207_database.sql 
+SQL FILE SIZE: 1.35MB (1417836) 
+SQL FILE TIME: 2017-02-17 10:42:57 
+SQL RUNTIME: 0.11 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/wordpress 
+ARCHIVE FILE: integraslanding_58a6d37f5f9bb2619170217104207_archive.zip 
+FILTERS: *OFF* 
+DIRS: C:/xampp/htdocs/wordpress 
+EXTS:  zip;rar;tar;gz;bz2;7z; 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	36.79MB 
+STATS:	Dirs 269 | Files 2,028 
+SQL ADDED: integraslanding_58a6d37f5f9bb2619170217104207_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 2297
+    [filename] => C:\xampp\htdocs\wordpress\wp-snapshots\tmp\integraslanding_58a6d37f5f9bb2619170217104207_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 18.04MB 
+ARCHIVE RUNTIME: 4.05 sec. 
+MEMORY STACK: 22.75MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/xampp/htdocs/wordpress/wp-snapshots/tmp/integraslanding_58a6d37f5f9bb2619170217104207_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 1.35MB 
+Installer File: 383KB 
+Archive File: 18.04MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 9.93 sec.
+PEAK PHP MEMORY USED: 25MB
+DONE PROCESSING => integraslanding 2017-02-17 10:43:07
+ 
